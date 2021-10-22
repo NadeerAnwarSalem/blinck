@@ -33,4 +33,12 @@
         android1:padding="8dp"
         android1:inputType="textPassword"
         android1:background="@drawable/roundcorners"/>
+
+    <Button
+        android1:layout_width="match_parent"
+        android1:layout_height="wrap_content"
+        android1:id="@+id/regBtn"
+        android1:layout_margin="16dp"
+        android1:background="@drawable/roundcorners"
+        android1:text="Sign Up"/>
 </LinearLayout>
