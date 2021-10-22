@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "997248403105",
+    "project_id": "blinck-a893a",
+    "storage_bucket": "blinck-a893a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997248403105:android:f11cdbfe8bdffa468412e0",
+        "android_client_info": {
+          "package_name": "com.enine.blinck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997248403105-fkgtm3i52l33q30lqp0ch3hbd8uslpc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-o0X4rb3ThGwa0mtHnvsUE6lkA0L9NWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997248403105-fkgtm3i52l33q30lqp0ch3hbd8uslpc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
